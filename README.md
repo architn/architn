@@ -1,7 +1,11 @@
 
 <h1 align="left">Hi 👋, I'm Archit Nigam</h1>
-<h3 align="center">Graduate Student at Northeastern University - Information Systems</h3>
+<h3 align="left">Graduate Student at Northeastern University - Information Systems</h3>
 
+Experienced Software Development Engineer with 3.8 years of work experience - skilled in building and maintaining efficient, scalable, and reliable software systems 
+
+I have been privileged to have academic and professional exposure to multiple technology stacks. During my professional career, I have worked with teams using Angular, .NET, JavaScript, Azure DevOps, Jenkins, and Java. As a master's student at Northeastern University, I have learned from industry leaders and experienced professors as well as implemented projects using Python, Machine Learning, SQL, NoSQL, SpringBoot, Apache Kafka, and ReactJS. The common denominating factor while facing all these different tech stacks was my intellectual curiosity at problem-solving and having an end-user-defined approach during development.
+                                                 
                                                  
 - 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
 

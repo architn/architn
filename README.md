@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Archit Nigam</h1>
 <h3 align="center">Graduate Student at Northeastern University - Information Systems</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fexemplaryfairfeline&psig=AOvVaw29uNhfyBN5pgilcxTXQijI&ust=1674618998197000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPjK9YWo3_wCFQAAAAAdAAAAABAJ]”>
                                                  
 - 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
 

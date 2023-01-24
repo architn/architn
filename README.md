@@ -13,7 +13,7 @@ I have been privileged to have academic and professional exposure to multiple te
 
 - 💬 Ask me about **C#, Java, Data Structures, History, Football, Coffee!**
 
-- 📫 How to reach me **archit.nigam711@gmail.com**
+- 📫 Contact me for jobs, chats, advice, collaborations on  **archit.nigam711@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

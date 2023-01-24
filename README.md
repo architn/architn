@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Archit Nigam</h1>
+<h1 align="left">Hi 👋, I'm Archit Nigam</h1>
 <h3 align="center">Graduate Student at Northeastern University - Information Systems</h3>
 
                                                  
